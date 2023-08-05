@@ -1,4 +1,4 @@
-﻿
+﻿# https://github.com/Snakeinweb/T5_1_hw
 
 x = int(input("Введите любое число: "))
 if x > 0 and x % 2 == 0:
